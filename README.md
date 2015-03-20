@@ -1,0 +1,2 @@
+# arango
+ArangoDB Foxx apps
